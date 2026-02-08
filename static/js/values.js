@@ -23,6 +23,11 @@ value('tableOfContents', [{
     'description': '<p>型のメソッドを定義する方法とインターフェイスを宣言する方法、全てをまとめて取得する方法について学びます。</p>',
     'lessons': ['methods']
 }, {
+    'id': 'generics',
+    'title': 'Generics',
+    'description': '<p>Goの関数とstructにおいて、型パラメータを使用する方法について学びます。</p>',
+    'lessons': ['generics']
+}, {
     'id': 'concurrency',
     'title': 'Concurrency',
     'description': '<p>Go は言語のコア機能の一部として並行処理機能を提供します。</p><p>ここでは goroutine と channel の概要とそれらを使ってさまざまな並行処理を実装する方法について説明します。</p>',
